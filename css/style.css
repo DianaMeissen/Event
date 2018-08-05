@@ -426,6 +426,7 @@ hr {
 
 .schedule {
     width: 100%;
+    font-fabily: Open-Sans;
     background-color: #f8f8f8;
     padding-top: 100px;
     padding-bottom: 145px;
@@ -635,8 +636,6 @@ hr {
 .blog-body {
     display: flex;
     justify-content: space-between;
-    margin-right: 100px;
-    margin-left: 100px;
 }
 
 .blog h4 {
